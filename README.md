@@ -7,6 +7,7 @@
   <summary>🗂️ Table of Contents</summary>
   <ol>
     <li><a href="#survey">Survey Paper</a></li>
+    <li><a href="#taxonomy">Various Modalities</a></li>
     <li><a href="#taxonomy">Taxonomy of Techniques</a></li>
     <li><a href="#applications">Applications</a></li>
     <li><a href="#applications">Benchmarks</a></li>
