@@ -6,15 +6,15 @@
 <details>
   <summary>🗂️ Table of Contents</summary>
   <ol>
-    <li><a href="#survey">Survey Paper</a></li>
-    <li><a href="#modalities">Various Modalities</a></li>
-    <li><a href="#training">Training-time Techniques</a></li>
-    <li><a href="#test">Test-time Techniques</a></li>
+    <li><a href="#survey-paper">Survey Paper</a></li>
+    <li><a href="#various-modalities">Various Modalities</a></li>
+    <li><a href="#training-time-techniques">Training-time Techniques</a></li>
+    <li><a href="#test-time-techniques">Test-time Techniques</a></li>
     <li><a href="#applications">Applications</a></li>
-    <li><a href="#benchmarks">Benchmarks</a></li>
-    <li><a href="#resources">Other Resources</a></li>
+    <li><a href="#evaluation--benchmarkings">Evaluation & Benchmarking</a></li>
+    <li><a href="#other-resources">Other Resources</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License & Citation</a></li>
+    <li><a href="#license--citation">License & Citation</a></li>
   </ol>
 </details>
 
@@ -127,8 +127,3 @@ If you use this resource, please cite:
       url={https://arxiv.org/abs/2508.00669}, 
 }
 ```
-
-<p align="right">
-  <a href="#readme-top" style="text-decoration:none; font-weight:bold;">↑ Back to Top</a>
-</p>
-<div style="text-align: center">⁂</div>
