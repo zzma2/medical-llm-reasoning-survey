@@ -11,7 +11,7 @@
     <li><a href="#training-time-techniques">Training-time Techniques</a></li>
     <li><a href="#test-time-techniques">Test-time Techniques</a></li>
     <li><a href="#applications">Applications</a></li>
-    <li><a href="#evaluation--benchmarkings">Evaluation & Benchmarking</a></li>
+    <li><a href="#evaluation--benchmarking">Evaluation & Benchmarking</a></li>
     <li><a href="#other-resources">Other Resources</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license--citation">License & Citation</a></li>
@@ -52,7 +52,7 @@
 
 ### Prompt-Based Elicitation
 
-
+1. **[Large Language Models are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales](https://arxiv.org/abs/2312.07399)** *(Taeyoon Kwon, Kai Tzu-iunn Ong, Dongjin Kang, Seungjun Moon, Jeong Ryong Lee, Dosik Hwang, Yongsik Sim, Beomseok Sohn, Dongha Lee, Jinyoung Yeo).* AAAI'24
 
 ### Reasoning Selection \& Aggregation
 
