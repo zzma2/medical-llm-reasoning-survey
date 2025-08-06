@@ -7,10 +7,11 @@
   <summary>🗂️ Table of Contents</summary>
   <ol>
     <li><a href="#survey">Survey Paper</a></li>
-    <li><a href="#taxonomy">Various Modalities</a></li>
-    <li><a href="#taxonomy">Taxonomy of Techniques</a></li>
+    <li><a href="#modalities">Various Modalities</a></li>
+    <li><a href="#training">Training-time Techniques</a></li>
+    <li><a href="#test">Test-time Techniques</a></li>
     <li><a href="#applications">Applications</a></li>
-    <li><a href="#applications">Benchmarks</a></li>
+    <li><a href="#benchmarks">Benchmarks</a></li>
     <li><a href="#resources">Other Resources</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License & Citation</a></li>
@@ -27,32 +28,45 @@
 
 ### Reasoning over Text
 
+
+
 ### Reasoning over Image
+
+
 
 ### Reasoning over Code
 
 
-## Taxonomy of Techniques
 
-### Training-Time Strategies
+## Training-time Techniques
 
-- **Supervised Fine-Tuning**
+### Supervised Fine-Tuning
+
+
+
+### Reinforcement Learning
     
-- **Reinforcement Learning**
-    
-
-### Test-Time Mechanisms
-
-- **Prompt-Based Elicitation**
-
-- **Reasoning Selection \& Aggregation**
-
-- **Knowledge Enhancement**
-
-- **Multi-Agent Systems**
 
 
-## Applications \& Benchmarks
+## Test-Time Techniques
+
+### Prompt-Based Elicitation
+
+
+
+### Reasoning Selection \& Aggregation
+
+
+
+### Knowledge Enhancement
+
+
+
+### Multi-Agent Systems
+
+
+
+## Applications
 
 ### Clinical Diagnosis \& Decision Support
 
@@ -74,11 +88,12 @@
 
 
 
+## Evaluation \& Benchmarking
 
-### Evaluation \& Benchmarking
 
 
 ## Other Resources
+
 
 
 ## Contributing
