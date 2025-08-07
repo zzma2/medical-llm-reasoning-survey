@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="training&test.png" width="90%" style="align:center;"/>
+</p>
+
 <h1 align="center">Awesome Medical-Reasoning LLMs</h1>
 
 <p align="center">
