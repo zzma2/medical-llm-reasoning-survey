@@ -2,10 +2,10 @@
     <img src="training&test.png" width="90%" style="align:center;"/>
 </p>
 
-<h1 align="center">Awesome Medical-Reasoning LLMs</h1>
+<h1 align="center">Awesome Medical-Reasoning with LLMs & MLLMs</h1>
 
 <p align="center">
-  <b>A curated list of papers, benchmarks, and resources for medical reasoning in large language models (LLMs)</b>
+  <b>A curated list of papers, benchmarks, and resources for medical reasoning with LLMs & MLLMs</b>
 </p>
 <details>
   <summary>🗂️ Table of Contents</summary>
