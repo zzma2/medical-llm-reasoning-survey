@@ -20,7 +20,7 @@
 
 ## Survey Paper
 
-- **Medical Reasoning in the Era of LLMs: A Systematic Review of Enhancement Techniques and Applications**
+- **[Medical Reasoning in the Era of LLMs: A Systematic Review of Enhancement Techniques and Applications](https://arxiv.org/abs/2508.00669)**
   *Wenxuan Wang, Zizhan Ma, Meidan Ding, Shiyi Zheng, Shengyuan Liu, Jie Liu, Jiaming Ji, Wenting Chen, Xiang Li, Linlin Shen, Yixuan Yuan* Preprint'25
     - PDF: `survey-paper.pdf`
 
