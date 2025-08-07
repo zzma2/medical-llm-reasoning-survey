@@ -27,16 +27,16 @@
 ## Various Modalities
 
 ### Reasoning over Text
-1. **[Reasoning Like a Doctor: Improving Medical Dialogue Systems via Diagnostic Reasoning Process Alignment](https://arxiv.org/abs/2406.13934)** *(Kaishuai Xu, Yi Cheng, Wenjun Hou, Qiaoyu Tan, Wenjie Li).* 2024  
+1. **[Reasoning Like a Doctor: Improving Medical Dialogue Systems via Diagnostic Reasoning Process Alignment](https://arxiv.org/abs/2406.13934)** *(Kaishuai Xu, Yi Cheng, Wenjun Hou, Qiaoyu Tan, Wenjie Li).* ACL'2024  
 2. **[MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs](https://arxiv.org/abs/2504.00993)** *(Juncheng Wu et al.).* 2025  
-3. **[MedEx: Enhancing Medical Question-Answering with First-Order Logic Based Reasoning and Knowledge Injection](https://aclanthology.org/2025.coling-main.649/)** *(Aizan Zafar, Kshitij Mishra, Asif Ekbal).* 2025  
+3. **[MedEx: Enhancing Medical Question-Answering with First-Order Logic Based Reasoning and Knowledge Injection](https://aclanthology.org/2025.coling-main.649/)** *(Aizan Zafar, Kshitij Mishra, Asif Ekbal).* ACL'2025  
 4. **[Med-RLVR: Emerging Medical Reasoning from a 3B Base Model via Reinforcement Learning](https://arxiv.org/abs/2502.19655)** *(Sheng Zhang et al.).* 2025  
 5. **[Beyond Distillation: Pushing the Limits of Medical LLM Reasoning with Minimalist Rule-Based RL](https://arxiv.org/abs/2505.17952)** *(Che Liu et al.).* 2025  
 6. **[M1: Unleash the Potential of Test-Time Scaling for Medical Reasoning with Large Language Models](https://arxiv.org/abs/2504.00869)** *(Xiaoke Huang et al.).* 2025  
 7. **[FineMedLM-O1: Enhancing the Medical Reasoning Ability of LLM from Supervised Fine-Tuning to Test-Time Training](https://arxiv.org/abs/2501.09213)** *(Hongzhou Yu et al.).* 2025  
-8. **[MedAdapter: Efficient Test-Time Adaptation of Large Language Models Towards Medical Reasoning](https://aclanthology.org/2024.emnlp-main.1244.pdf)** *(Wenqi Shi et al.).* 2024  
+8. **[MedAdapter: Efficient Test-Time Adaptation of Large Language Models Towards Medical Reasoning](https://aclanthology.org/2024.emnlp-main.1244.pdf)** *(Wenqi Shi et al.).* ACL'2024  
 9. **[ArgMed-Agents: Explainable Clinical Decision Reasoning with LLM Discussion via Argumentation Schemes](https://arxiv.org/abs/2403.06294)** *(Shengxin Hong et al.).* 2024  
-10. **[MedAgents: Large Language Models as Collaborators for Zero-Shot Medical Reasoning](https://aclanthology.org/2024.findings-acl.33.pdf)** *(Xiangru Tang et al.).* 2024  
+10. **[MedAgents: Large Language Models as Collaborators for Zero-Shot Medical Reasoning](https://aclanthology.org/2024.findings-acl.33.pdf)** *(Xiangru Tang et al.).* ACL'2024  
 
 
 
