@@ -30,7 +30,7 @@
     - PDF: `survey-paper.pdf`
 
 ## Taxonomy
-![Taxonomy](./taxonomy_figure.pdf.png)
+![Taxonomy](./taxonomy_figure.png)
 
 ## Various Modalities
 
