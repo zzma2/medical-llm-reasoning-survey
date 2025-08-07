@@ -7,7 +7,7 @@
 <p align="center">
   <b>A curated list of papers, benchmarks, and resources for medical reasoning with LLMs & MLLMs</b>
 </p>
-<details>
+<details open>
   <summary>🗂️ Table of Contents</summary>
   <ol>
     <li><a href="#survey-paper">Survey Paper</a></li>
