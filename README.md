@@ -11,7 +11,7 @@
   <summary>🗂️ Table of Contents</summary>
   <ol>
     <li><a href="#survey-paper">Survey Paper</a></li>
-    <li><a href="#taxonomyr">Taxonomy</a></li>
+    <li><a href="#taxonomy">Taxonomy</a></li>
     <li><a href="#various-modalities">Various Modalities</a></li>
     <li><a href="#training-time-techniques">Training-time Techniques</a></li>
     <li><a href="#test-time-techniques">Test-time Techniques</a></li>
