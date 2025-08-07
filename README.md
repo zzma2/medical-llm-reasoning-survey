@@ -24,6 +24,9 @@
   *Wenxuan Wang, Zizhan Ma, Meidan Ding, Shiyi Zheng, Shengyuan Liu, Jie Liu, Jiaming Ji, Wenting Chen, Xiang Li, Linlin Shen, Yixuan Yuan* Preprint'25
     - PDF: `survey-paper.pdf`
 
+## Taxonomy
+![Taxonomy](./taxonomy_figure.pdf.png)
+
 ## Various Modalities
 
 ### Reasoning over Text
