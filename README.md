@@ -89,19 +89,36 @@
 
 ### Prompt-Based Elicitation
 
-1. **[Large Language Models are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales](https://arxiv.org/abs/2312.07399)** *(Taeyoon Kwon, Kai Tzu-iunn Ong, Dongjin Kang, Seungjun Moon, Jeong Ryong Lee, Dosik Hwang, Yongsik Sim, Beomseok Sohn, Dongha Lee, Jinyoung Yeo).* AAAI'24
+1. **[Large Language Models are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales](https://arxiv.org/abs/2312.07399)** *(Taeyoon Kwon, Kai Tzu-iunn Ong, Dongjin Kang, Seungjun Moon, Jeong Ryong Lee, Dosik Hwang, Yongsik Sim, Beomseok Sohn, Dongha Lee, Jinyoung Yeo).* AAAI'2024
+1. **[Few shot chain-of-thought driven reasoning to prompt LLMs for open-ended medical question answering](https://aclanthology.org/2024.findings-emnlp.31/)** *(Saeel Sandeep Nachane, Ojas Gramopadhye, Prateek Chanda, Ganesh Ramakrishnan, Kshitij Sharad Jadhav, Yatin Nandwani, Dinesh Raghu, Sachindra Joshi)* EMNLP'2024
+1. **[Large Language Models Perform Diagnostic Reasoning](https://arxiv.org/abs/2307.08922)** *(Cheng-Kuang Wu, Wei-Lin Chen, Hsin-Hsi Chen)* arXiv’2023
+1. **[CoD: Towards an Interpretable Medical Agent using Chain of Diagnosis](https://aclanthology.org/2025.findings-acl.740/)** *(Junying Chen, Chi Gui, Anningzhe Gao, Ke Ji, Xidong Wang, Xiang Wan, Benyou Wang)* ACL'2025
+1. **[BP4ER: Bootstrap Prompting for Explicit Reasoning in Medical Dialogue Generation](https://aclanthology.org/2024.lrec-main.223/)** *(Yuhong He, Yongqi Zhang, Shizhu He, Jun Wan)* LREC-COLING'2024
+1. **[Step-by-Step Fact Verification System for Medical Claims with Explainable Reasoning](https://aclanthology.org/2025.naacl-short.68/)** *(Juraj Vladika, Ivana Hacajova, Florian Matthes)* NAACL'2025
+1. **[MC-CoT: A Modular Collaborative CoT Framework for Zero-shot Medical-VQA with LLM and MLLM Integration](https://arxiv.org/abs/2410.04521)** *(Lai Wei, Wenkai Wang, Xiaoyu Shen, Yu Xie, Zhihao Fan, Xiaojin Zhang, Zhongyu Wei, Wei Chen)* arXiv’2024
+1. **[PathCoT: Chain-of-Thought Prompting for Zero-shot Pathology Visual Reasoning](https://arxiv.org/abs/2507.01029)** *(Junjie Zhou, Yingli Zuo, Shichang Feng, Peng Wan, Qi Zhu, Daoqiang Zhang, Wei Shao)* arXiv’2025
 
 ### Reasoning Selection \& Aggregation
 
-
+1. **[Reasoning with Large Language Models for Medical Question Answering](https://academic.oup.com/jamia/article/31/9/1964/7938374)** *(Mary M Lucas, Justin Yang, Jon K Pomeroy, Christopher C Yang)* JAMIA’2024
+1. **[m1: Unleash the Potential of Test-Time Scaling for Medical Reasoning with Large Language Models](https://arxiv.org/abs/2504.00869)** *(Xiaoke Huang, Juncheng Wu, Hui Liu, Xianfeng Tang, Yuyin Zhou)* arXiv’2025
+1. **[O1 Replication Journey -- Part 3: Inference-time Scaling for Medical Reasoning](https://arxiv.org/abs/2501.06458)** *(Zhongzhen Huang, Gui Geng, Shengyi Hua, Zhen Huang, Haoyang Zou, Shaoting Zhang, Pengfei Liu, Xiaofan Zhang)* arXiv'2025
+1. **[MedAdapter: Efficient Test-Time Adaptation of Large Language Models Towards Medical Reasoning](https://aclanthology.org/2024.emnlp-main.1244/)** *(Wenqi Shi, Ran Xu, Yuchen Zhuang, Yue Yu, Haotian Sun, Hang Wu, Carl Yang, May Dongmei Wang)*  EMNLP'2024
 
 ### Knowledge Enhancement
 
-
+1. **[SelfRewardRAG: Enhancing Medical Reasoning with Retrieval-Augmented Generation and Self-Evaluation](https://doi.org/10.1109/ISCV60512.2024.10620139)** *(Zakaria Hammane, Fatima-Ezzahraa Ben-Bouazza, Abdelhadi Fennan)* ISCV'2024
+1. **[Improving Medical Reasoning through Retrieval and Self-Reflection with Retrieval-Augmented Large Language Models](https://doi.org/10.1093/bioinformatics/btae238)** *(Minbyul Jeong, Jiwoong Sohn, Mujeen Sung, Jaewoo Kang)* Bioinformatics'2024
+1. **[RARoK: Retrieval-Augmented Reasoning on Knowledge for Medical Question Answering](https://doi.org/10.1109/BIBM62325.2024.10822341)** *(Buchao Zhan, Anqi Li, Xin Yang, Dongmei He, Yucong Duan, Shankai Yan)* IEEE BIBM'2024
+1. **[Guiding Clinical Reasoning with Large Language Models via Knowledge Seeds](https://doi.org/10.24963/ijcai.2024/829)** *(Jiageng Wu, Xian Wu, Jie Yang)* IJCAI'2024
 
 ### Multi-Agent Systems
 
-
+1. **[MedAgents: Large Language Models as Collaborators for Zero-Shot Medical Reasoning](https://aclanthology.org/2024.findings-acl.33/)** *(Xiangru Tang, Anni Zou, Zhuosheng Zhang, Ziming Li, Yilun Zhao, Xingyao Zhang, Arman Cohan, Mark Gerstein)* ACL'2024
+1. **[ArgMed-Agents: Explainable Clinical Decision Reasoning with LLM Discussion via Argumentation Schemes](https://doi.org/10.1109/BIBM62325.2024.10822109)** *(Shengxin Hong, Liang Xiao, Xin Zhang, Jianxia Chen)* IEEE BIBM'2024
+1. **[MedRAX: Medical Reasoning Agent for Chest X-ray](https://arxiv.org/abs/2502.02673)** *(Adibvafa Fallahpour, Jun Ma, Alif Munim, Hongwei Lyu, Bo Wang)* arXiv'2025
+1. **[Inquire, Interact, and Integrate: A Proactive Agent Collaborative Framework for Zero-Shot Multimodal Medical Reasoning](https://arxiv.org/abs/2405.11640)** *(Zishan Gu, Fenglin Liu, Changchang Yin, Ping Zhang* arXiv’2024
+1. **[Ask Patients with Patience: Enabling LLMs for Human-Centric Medical Dialogue with Grounded Reasoning](https://arxiv.org/abs/2502.07143)** *(Jiayuan Zhu, Junde Wu)* arXiv’2025
 
 ## Applications
 
