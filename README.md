@@ -117,8 +117,10 @@
 1. **[MedAgents: Large Language Models as Collaborators for Zero-Shot Medical Reasoning](https://aclanthology.org/2024.findings-acl.33/)** *(Xiangru Tang, Anni Zou, Zhuosheng Zhang, Ziming Li, Yilun Zhao, Xingyao Zhang, Arman Cohan, Mark Gerstein)* ACL'2024
 1. **[ArgMed-Agents: Explainable Clinical Decision Reasoning with LLM Discussion via Argumentation Schemes](https://doi.org/10.1109/BIBM62325.2024.10822109)** *(Shengxin Hong, Liang Xiao, Xin Zhang, Jianxia Chen)* IEEE BIBM'2024
 1. **[MedRAX: Medical Reasoning Agent for Chest X-ray](https://arxiv.org/abs/2502.02673)** *(Adibvafa Fallahpour, Jun Ma, Alif Munim, Hongwei Lyu, Bo Wang)* arXiv'2025
-1. **[Inquire, Interact, and Integrate: A Proactive Agent Collaborative Framework for Zero-Shot Multimodal Medical Reasoning](https://arxiv.org/abs/2405.11640)** *(Zishan Gu, Fenglin Liu, Changchang Yin, Ping Zhang* arXiv’2024
+1. **[Inquire, Interact, and Integrate: A Proactive Agent Collaborative Framework for Zero-Shot Multimodal Medical Reasoning](https://arxiv.org/abs/2405.11640)** *(Zishan Gu, Fenglin Liu, Changchang Yin, Ping Zhang)* arXiv’2024
 1. **[Ask Patients with Patience: Enabling LLMs for Human-Centric Medical Dialogue with Grounded Reasoning](https://arxiv.org/abs/2502.07143)** *(Jiayuan Zhu, Junde Wu)* arXiv’2025
+1. **[ClinicalAgent: Clinical Trial Multi-Agent System with Large Language Model-based Reasoning](https://doi.org/10.1145/3698587.3701359)** *(Ling Yue, Sixue Xing, Jintai Chen, Tianfan Fu)* BCB’2024
+1. **[MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale](https://arxiv.org/abs/2506.04405)** *(Ran Xu, Yuchen Zhuang, Yishan Zhong, Yue Yu, Xiangru Tang, Hang Wu, May D. Wang, Peifeng Ruan, Donghan Yang, Tao Wang, Guanghua Xiao, Carl Yang, Yang Xie, Wenqi Shi)* arXiv’2025
 
 ## Applications
 
